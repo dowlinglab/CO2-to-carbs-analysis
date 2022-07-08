@@ -1,4 +1,4 @@
-# Supporting code for "Challenges and Opportunities in Converting CO2 to Carbohydrates"
+# Supporting code for *Challenges and Opportunities in Converting CO2 to Carbohydrates*
 
 This repository contains Python code to generate the plots and analysis in the manuscript:
 
